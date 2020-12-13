@@ -1,0 +1,156 @@
+.logo{
+    font-size: 26.789px;
+    font-family: "Georgia";
+    color: rgb(84, 84, 84);
+    
+
+}
+.Shelter_for_pets_in_Boston_ {
+    padding-top: 2px;
+  font-size: 13px;
+  font-family: "Arial";
+  color: rgb(84, 84, 84);
+  
+}
+
+#menu {
+    color: white;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    
+  }
+  #menu li { 
+      display: inline; 
+      padding-inline-end: 42px;
+    }
+
+  a {
+      text-decoration: none;
+      color: rgb(84, 84, 84);;
+  }
+  #menu a:hover {
+    border-bottom: 3.5px solid rgb(241, 205, 179);
+    border-radius: 2px;
+
+   }
+  .block_menu_1{
+    display: flex;
+    justify-content: center;
+  }
+.block_logo{
+    margin-left: 280px;
+    margin-top: 36px;
+}
+.block_header_menu{
+    display: flex;
+
+}
+.menu-block{
+    margin-left: 290px;
+    margin-top: 48px;
+}
+
+.info-title{
+        font-size: 32px;
+        font-family: "Georgia";
+        color: rgb(255, 255, 255);
+        line-height: 1.295;
+      
+}
+.info{
+    display: flex;
+    justify-content: safe;
+    
+}
+.info_bloc_1{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    margin-left: 285px;
+}
+.info_img{
+ 
+  position: absolute;
+  left: 890px;
+  top: 100px;
+  width: 600px;
+  height: 550px;
+}
+.info-main-text{
+    padding-top: 18px;
+        font-size: 15px;
+        font-family: "Arial";
+        color: rgb(205, 205, 205);
+
+      
+}
+.get_to_know_the_rest_bloc{
+  display: flex;
+  justify-content: center;
+  margin-top: 95px;
+  margin-bottom: 140px;
+}
+.get_to_know_the_rest{
+
+        font-size: 17px;
+        font-family: "Georgia";
+        color: rgb(41, 41, 41);
+        background-color: rgb(241, 205, 179);
+        position: absolute;
+        width: 260px;
+        height: 32px;
+        text-align: center;
+        padding-top: 14px;
+        border-radius: 70px;
+}
+.get_to_know_the_rest:hover{
+    font-size: 17px;
+    font-family: "Georgia";
+    color: rgb(41, 41, 41);
+    background-color: rgb(247, 177, 127);
+    position: absolute;
+    width: 260px;
+    height: 32px;
+    text-align: center;
+    padding-top: 14px;
+    border-radius: 70px;  
+}
+.info-button{
+        margin-top: 35px;
+        font-size: 17px;
+        font-family: "Georgia";
+        color: rgb(41, 41, 41);
+        background-color: rgb(241, 205, 179);
+        position: absolute;
+        width: 165px;
+        height: 32px;
+        text-align: center;
+        padding-top: 14px;
+        border-radius: 70px;
+          
+}
+.info-button:hover {
+    
+    margin-top: 35px;
+    font-size: 17px;
+    font-family: "Georgia";
+    color: rgb(41, 41, 41);
+    background-color: rgb(247, 177, 127);
+    position: absolute;
+    width: 165px;
+    height: 32px;
+    text-align: center;
+    padding-top: 14px;
+    border-radius: 70px;   
+      
+}
+
+
+
+
+
+
+
+

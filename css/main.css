@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+.block_header1 {
+    height: 650px;
+    width: 100%;
+    background-image: url(../img/picture/background1.jpg); /* Путь к фоновому изображению */
+    background-color: #000000; /* Цвет фона */
+}
+.footer{
+    
+    background-image: url(../img/picture/backgroundfooter.jpg); /* Путь к фоновому изображению */
+    background-color: #000000; /* Цвет фона */
+
+}
+.main_about_animalsinfo{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 64px;
+}
+#main-about-text{
+    width: 400px;
+    padding-left: 115px;
+}
+#main-about-text h4{
+    font-size: 34px;
+    font-family: "Georgia";
+    color: rgb(84, 84, 84);
+    line-height: 1.286;
+    padding-bottom: 45px;
+
+}
+#main-about-text p{
+    font-size: 15px;
+    font-family: "Arial";
+    color: rgb(76, 76, 76);
+    line-height: 1.6;
+}
+.main-about-caruesl{
+    display: flex;
+    justify-content: center;
+}
+
+.main-about-caruesl h2{
+
+    font-size: 35px;
+    font-family: "Georgia";
+    color: rgb(84, 84, 84);
+    line-height: 1.286;
+
+}
+.main-margin-bottom{
+    margin-bottom: 76px;
+}
+.main_help_info{
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    align-items: center;
+}
+.main_help_info h2{
+        font-size: 35px;
+        font-family: "Georgia";
+        color: rgb(84, 84, 84);
+        line-height: 1.286;
+
+      
+      
+}
+.main_hel_menu_1{
+    display: flex;
+    justify-content: center;
+    margin-top: 74px;
+
+}
+.main_hel_menu_2{
+padding-left: 85px;
+padding-right: 45px;
+text-align: center;
+}
+.main_hel_menu_2 h4{
+        font-size: 20px;
+        font-family: "Georgia";
+        color: rgb(84, 84, 84);
+        line-height: 1.2;
+        margin-top: 10px;
+      
+}
+.main_hel_menu_3{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.main_hel_menu_4{
+    padding-left: 80px;
+    padding-right: 40px;
+    text-align: center;  
+}
+
+.main_hel_menu_4 h4{
+    font-size: 20px;
+    font-family: "Georgia";
+    color: rgb(84, 84, 84);
+    line-height: 1.2;
+    margin-top: 10px; 
+}
+#main-help{
+    margin-bottom: 80px;
+}
+#main-donation{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 85px;
+
+}
+#main-donation-text {
+    width: 400px;
+
+}
+#main-donation-text h3{
+    font-size: 33px;
+    font-family: "Georgia";
+    color: rgb(84, 84, 84);
+    line-height: 1.286;
+}
+#main-donation-text-h3{
+    padding-bottom: 25px;
+}
+#main-donation-text p{
+        font-size: 15px;
+        font-family: "Georgia";
+        color: rgb(84, 84, 84);
+        line-height: 1.2;
+        padding-bottom: 15px;
+      
+}
+.donations_img_1{
+    width: 290px;
+    padding-bottom: 25px;
+}
+
+#main-donation-text span{
+
+        font-size: 12px;
+        font-family: "Arial";
+        color: rgb(178, 178, 178);
+        font-style: italic;
+        line-height: 1.5;
+      
+}
+.main-donation-picture{
+    padding-right: 70px;
+}
+
+/*футер часть 1*/
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.footer-contact-info{
+    margin-top: 85px;
+    margin-left: 150px;
+    margin-bottom: 75px;
+    width: 300px;
+}
+.footer-contact-info h4{
+    
+    font-size: 25px;
+    font-family: "Georgia";
+        color: rgb(255, 255, 255);
+        line-height: 1.286;
+      
+}
+.footer-mail{
+    display: flex;
+    padding-top: 35px;
+}
+
+.footer-mail-icon1{
+    padding-right: 20px;
+}
+.footer-mail-icon2 a{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color: rgb(241, 205, 179);
+    line-height: 1.25;
+}
+.footer-phone{
+    display: flex;
+    padding-top: 50px;
+}
+.footer-phone1{
+    padding-right: 20px;
+}
+.footer-phone2 a{
+        font-size: 20px;
+        font-family: "Times New Roman";
+        color: rgb(241, 205, 179);
+        line-height: 1.55;
+
+      
+}
+
+/*часть 2*/
+.footer-location-info {
+    margin-top: 85px;
+    width: 300px;
+    padding-left: 100px;
+
+}
+.footer-location-info h4{
+    font-size: 25px;
+    font-family: "Georgia";
+    color: rgb(255, 255, 255);
+    line-height: 1.286;
+}
+.footer-location{
+    display: flex;
+    padding-top: 35px;
+}
+.footer-location1{
+    padding-right: 20px;
+}
+.footer-location2 span{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color: rgb(241, 205, 179);
+    line-height: 1.2;
+      
+}
+.footer-location3{
+    padding-right: 20px;
+}
+.footer-location4{
+        font-size: 20px;
+        font-family: "Times New Roman";
+        color: rgb(241, 205, 179);
+        line-height: 1.1;
+      
+}
+
+/*часть 3*/
+.footer-img-absol{
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
